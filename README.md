@@ -5,3 +5,5 @@ Adding a new line
 
 # About the Project
 **Some Description**
+
+# Project Objectives
